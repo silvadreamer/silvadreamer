@@ -1,6 +1,6 @@
 ### 💬若是有舍弃之物 才成就了明天🌱
 [![Futaba21's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvadreamer&theme=cobalt)](https://github.com/silvadreamer/github-readme-stats)
-<img align="right" alt="GIF" width=400px src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" width=350px src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 😄*My skills*:
 
