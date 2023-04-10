@@ -1,6 +1,6 @@
 ### 💬若是有舍弃之物 才成就了明天🌱
 [![Futaba21's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvadreamer&theme=cobalt)](https://github.com/silvadreamer/github-readme-stats)
-<img align="right" alt="JPG" width=380px src="https://raw.githubusercontent.com/silvadreamer/silvadreamer/main/8D1BBE0E72583C3B30C670825D4D8C5E.jpg" />
+<img align="right" alt="JPG" width=350px src="https://raw.githubusercontent.com/silvadreamer/silvadreamer/main/8D1BBE0E72583C3B30C670825D4D8C5E.jpg" />
 
 😄*My skills*:
 
