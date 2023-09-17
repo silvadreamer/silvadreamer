@@ -1,4 +1,4 @@
-*my blog*: [Blog](hyh31.top)
+*my blog*: [Blog](https://hyh31.top)
 
 💻*my os*:
 
