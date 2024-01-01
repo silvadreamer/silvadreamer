@@ -6,6 +6,8 @@
 
 ![](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
+- 🎵 I like to listen to J-pop and C-pop.
+- ⚽️ I'm a big fan of Messi and Barcelona.
 - 🌱 I’m currently learning ***Nothing***
 - 💪 I‘m interested in Computuer Vision.
 - 📫 How to reach me 1957915633hyh@gmail.com or [Silva31](https://hyh31.top).
