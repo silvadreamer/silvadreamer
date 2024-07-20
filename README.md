@@ -8,8 +8,7 @@
 
 - 🎵 I like to listen to J-pop and C-pop.
 - ⚽️ I'm a big fan of Messi and Barcelona.
-- 🌱 I’m currently learning ***Nothing***
-- 💪 I‘m interested in Computuer Vision.
+- 💪 I‘m interested in Image Restoration, Camera Pipeline.
 - 📫 How to reach me heyh97791@gmail.com or [Dreamer Land](https://dreamerland.cn).
 
 <!--
