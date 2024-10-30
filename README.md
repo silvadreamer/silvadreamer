@@ -8,7 +8,7 @@
 
 - 🎵 I like to listen to J-pop and C-pop.
 - ⚽️ I'm a big fan of Messi and Barcelona.
-- 💪 I‘m interested in Image Restoration, Camera Pipeline.
+- 💪 I‘m interested in Image Restoration, Camera Pipeline and AIGC.
 - 📫 How to reach me heyh97791@gmail.com or [Dreamer Land](https://dreamerland.cn).
 
 <!--
